@@ -1,6 +1,6 @@
 # Repositório de Ativos Visuais da Actuar
 
-![Logo Actuar](./logotipos/primarios/actuar_logo_principal.png)
+![Logo Actuar](./logotipos/primarios/actuar-apenas-nome.svg)
 
 ## Visão Geral
 
